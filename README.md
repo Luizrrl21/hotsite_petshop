@@ -1,1 +1,1 @@
-# hotsite_petshop
+# Projeto Site Pet-Shop Infinity School
